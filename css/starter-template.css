@@ -1,0 +1,54 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 20px 15px;
+  text-align: center;
+}
+
+.input_currency{
+	
+	padding: 1em;
+	background: #f8f8f8; 
+	border-radius: 5px;
+	margin-bottom:20px;
+	font-size: 1.7em;
+	text-align:center;
+
+}
+
+.input_buttons {
+	
+	padding: 1em;
+	background: #f8f8f8;
+	border-radius: 5px;
+
+
+}
+
+.head{  text-align: center;}
+
+.input_currency_add{
+	
+	padding: 0.5em;
+	background: #f8f8f8; 
+	border-radius: 5px;
+	margin-bottom:20px;
+	font-size: 1.7em;
+	text-align:center;
+	margin-right: 20px;
+
+
+}
+
+.add_div{
+	
+	display: inline-block;
+
+}
+
+.add_div_sub{
+	
+
+
+}
